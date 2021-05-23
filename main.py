@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 import random
 # import telegram.ext.Updater
-token = '1837335285:AAFYdwZZ2J79uAlnsCjiiGvtIWq-4aKMVfw'
+token = 'token'
 bot = telebot.AsyncTeleBot(token)
 inits = None
 coefs = None
